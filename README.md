@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://mariateresacc.files.wordpress.com/2019/12/72b543662802d2aaa8ff3aff6b2b61c9.gif"/>
+<img src="https://static.wixstatic.com/media/669128_ec1c7a78e9694aec8a07c2e48b292ae1~mv2.gif"/>
 **FJosseph/FJosseph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
