@@ -51,7 +51,7 @@
 </p>  
   
 <!-- GITHUB STATS -->
-<hr>
+<!-- <hr>
 <div style="display: block;">
 <p>
   <h3 align="center">Stats:</h3>
@@ -62,7 +62,7 @@
     <a align="right"><p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=josuerv99&show_icons=true&theme=dark&locale=en" alt="josuerv99" /></p></a>  
   </p>
 </p>
-</div>
+</div> -->
 <hr>
 <br>
 <br>
@@ -77,6 +77,6 @@
 <br>
 
 -----
-Credits: [Josue Rojas Vega](https://github.com/JOSUERV99)
+Credits: [Frank Aguado Licas](https://github.com/FJosseph)
 
-Last Edited on: 23/09/2021
+Last Edited on: 25/10/2022
