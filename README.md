@@ -63,7 +63,7 @@
   </p>
 </p>
 </div> -->
-<hr>
+<!-- <hr>
 <br>
 <br>
 <br>
@@ -74,7 +74,7 @@
 <br>
 <br>
 <br>
-<br>
+<br> -->
 
 -----
 Credits: [Frank Aguado Licas](https://github.com/FJosseph)
